@@ -5,10 +5,8 @@
 - ✍️ &nbsp; Always curious to learn data science.
 - ✨ &nbsp; [Profile](https://www.notion.so/3b214631fe5a4d798a859c0d695ed5ba) : More About Me in Notion
 
-If you want to contact me, please leave me a message! 
-
 ### Interest
 - 🌱 &nbsp;  Data Analysis and Visualization(Python, R, SAS)
 - 💻 &nbsp; Deep learning and Natural Language Processing(NLP)
 
-
+If you want to contact me, please leave me a message! 
